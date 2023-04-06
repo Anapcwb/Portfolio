@@ -1,7 +1,7 @@
-# Hi, I am Ana Paula dos Santos! ![Octocat Anap](portfolio/octocat-anap.png)
+# Hi, I am Ana Paula dos Santos! ![](portfolio/octocat-anap.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/apaula-santos/)
- [![Twitter](https://twitter.com/ANINHAAAC)
+[![Twitter](https://twitter.com/ANINHAAAC)
  
 I am a Brazilian Portuguese native speaker currently based in London with a Bachelor's Degree in Information Management from the Federal University of Paraná. With proficiency in English speaking, reading, and writing, I have lived and worked in Japan for almost a decade, immersing myself in the language and culture and gaining valuable insights into adapting to a new way of life. This experience has also given me a deep appreciation for Japanese culture and customs, and I have acquired conversational knowledge in the Japanese language and cultural nuances.
 
