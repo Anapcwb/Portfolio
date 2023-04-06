@@ -1,4 +1,4 @@
-# Hi, I am Ana Paula dos Santos! ![](portfolio/octocat-anap.png)
+# Hi, I'm Ana Paula dos Santos! ![](portfolio/octocat-anap.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/apaula-santos/)
 [![Twitter](https://twitter.com/ANINHAAAC)
