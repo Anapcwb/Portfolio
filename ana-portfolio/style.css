@@ -11,12 +11,12 @@ body {
   transition: background 0.5s;
 
   --dark-background: #253a52;
-  --dark-primary: #FFFFE3;
+  --dark-primary: #c6f9f4;
   --dark-link: #A9FE75;
 
-  --light-background: #ffffe3;
+  --light-background: #e3fffd;
   --light-primary: #253a52;
-  --light-link: #d09e41;
+  --light-link: #18646d;
 
   --background: var(--light-background);
   --primary: var(--light-primary);
