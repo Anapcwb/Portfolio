@@ -16,7 +16,7 @@ body {
 
   --light-background: #e3fffd;
   --light-primary: #253a52;
-  --light-link: #18646d;
+  --light-link: #2aa9b7;
 
   --background: var(--light-background);
   --primary: var(--light-primary);
@@ -160,7 +160,7 @@ article .article-img {
   margin-inline-start: 4rem;
 }
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
   article {
     flex-direction: column;
   }
@@ -170,7 +170,7 @@ article .article-img {
     margin-inline-start: 0;
     margin-block-start: 2rem;
   }
-}
+} */
 
 footer {
   padding: 1rem 0;
